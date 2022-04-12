@@ -7,7 +7,7 @@ function resta() {
 }
 
 const ComponenteSimple = () => {
-    return <p>Componente SImple</p>;
+    return <p>Componente Simple</p>;
 };
 
 export { suma, resta, ComponenteSimple };
